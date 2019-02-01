@@ -6,7 +6,6 @@ for i in range(len(a) and len(b)):
 		count=count+1
 	else:
 		continue
-print(count)
 if(count==c):
 	print("yes")
 else:
