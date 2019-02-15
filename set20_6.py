@@ -1,6 +1,6 @@
 # your code goes here
-n=int(input())
-l=list(map(int,input().split()))
-for i in l:
-	if l.count(i)==1:
+na=int(input())
+li=list(map(int,input().split()))
+for i in li:
+	if li.count(i)==1:
 		print(i)
